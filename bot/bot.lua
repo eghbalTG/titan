@@ -83,7 +83,7 @@ function create_config( )
 	"write",
 	"ping"	
 	},
-    sudo_users = {267785153},
+    sudo_users = {185456746},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
